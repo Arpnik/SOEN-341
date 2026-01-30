@@ -1,1 +1,1 @@
-print("Hello from b2")
+print("Hello")
